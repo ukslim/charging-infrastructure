@@ -22,7 +22,9 @@ For simplicity I'm treating this as one unit, although in reality "transmission"
 
 The distributor owns the wire going into your meter, and the meter itself.
 
-
+I'm going to gloss over transmission and distribution - the interesting thing about them is that unlike supply and generation, they're a natural monopoly -
+it makes no sense to have competing companies putting wires along the same routes. They get a cut of the money, to pay for what they do, but otherwise
+they're not part of the mechanism I'm going to describe.
 
 #### Suppliers
 
@@ -39,6 +41,9 @@ Consumers own everything on the output side of the meter - including the consume
 have a contract with the supplier, who bills them and gets paid (the payment mechanism is irrelevant, but you know the typical arrangements already).
 
 ### The challenge
+
+So we have consumers buying power from suppliers, and suppliers buying power from generators. How does an individual generator know how much to produce
+at a given moment? How does a supplier know which generator to pay? That's what the GB electricity market is designed to achieve.
 
 
 
